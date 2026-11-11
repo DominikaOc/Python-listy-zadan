@@ -1,0 +1,236 @@
+India:Southern Asia
+China:Eastern Asia
+United States:North America
+Indonesia:South-Eastern Asia
+Pakistan:Southern Asia
+Nigeria:Western Africa
+Brazil:South America
+Bangladesh:Southern Asia
+Russia:Eastern Europe
+Mexico:Central America
+Ethiopia:Eastern Africa
+Japan:Eastern Asia
+Philippines:South-Eastern Asia
+Egypt:Northern Africa
+Democratic Republic of the Congo:Middle Africa
+Vietnam:South-Eastern Asia
+Iran:Southern Asia
+Türkiye:Western Asia
+Germany:Western Europe
+Thailand:South-Eastern Asia
+United Kingdom:Northern Europe
+Tanzania:Eastern Africa
+France:Western Europe
+South Africa:Southern Africa
+Italy:Southern Europe
+Kenya:Eastern Africa
+Myanmar:South-Eastern Asia
+Colombia:South America
+South Korea:Eastern Asia
+Sudan:Northern Africa
+Uganda:Eastern Africa
+Spain:Southern Europe
+Algeria:Northern Africa
+Argentina:South America
+Iraq:Western Asia
+Yemen:Western Asia
+Canada:North America
+Poland:Eastern Europe
+Ukraine:Eastern Europe
+Morocco:Northern Africa
+Angola:Middle Africa
+Uzbekistan:Central Asia
+Malaysia:South-Eastern Asia
+Peru:South America
+Ghana:Western Africa
+Mozambique:Eastern Africa
+Saudi Arabia:Western Asia
+Madagascar:Eastern Africa
+Côte d'Ivoire:Western Africa
+Nepal:Southern Asia
+Cameroon:Middle Africa
+Venezuela:South America
+Australia:Australia/New Zealand
+North Korea:Eastern Asia
+Niger:Western Africa
+Mali:Western Africa
+Syria:Western Asia
+Taiwan:Eastern Asia
+Burkina Faso:Western Africa
+Sri Lanka:Southern Asia
+Malawi:Eastern Africa
+Zambia:Eastern Africa
+Kazakhstan:Central Asia
+Chile:South America
+Chad:Middle Africa
+Romania:Eastern Europe
+Somalia:Eastern Africa
+Guatemala:Central America
+Netherlands:Western Europe
+Senegal:Western Africa
+Ecuador:South America
+Cambodia:South-Eastern Asia
+Zimbabwe:Eastern Africa
+Guinea:Western Africa
+Benin:Western Africa
+Rwanda:Eastern Africa
+Burundi:Eastern Africa
+Bolivia:South America
+Tunisia:Northern Africa
+Belgium:Western Europe
+Haiti:Caribbean
+South Sudan:Eastern Africa
+Jordan:Western Asia
+Dominican Republic:Caribbean
+Cuba:Caribbean
+Czechia:Eastern Europe
+Honduras:Central America
+United Arab Emirates:Western Asia
+Sweden:Northern Europe
+Portugal:Southern Europe
+Tajikistan:Central Asia
+Papua New Guinea:Melanesia
+Azerbaijan:Western Asia
+Greece:Southern Europe
+Hungary:Eastern Europe
+Togo:Western Africa
+Israel:Western Asia
+Austria:Western Europe
+Belarus:Eastern Europe
+Switzerland:Western Europe
+Sierra Leone:Western Africa
+Lao People's Democratic Republic:South-Eastern Asia
+Hong Kong:Eastern Asia
+Turkmenistan:Central Asia
+Libya:Northern Africa
+Kyrgyzstan:Central Asia
+Paraguay:South America
+Nicaragua:Central America
+Bulgaria:Eastern Europe
+Serbia:Southern Europe
+El Salvador:Central America
+Congo:Middle Africa
+Denmark:Northern Europe
+Singapore:South-Eastern Asia
+Lebanon:Western Asia
+Finland:Northern Europe
+Norway:Northern Europe
+Slovakia:Eastern Europe
+Liberia:Western Africa
+Palestine:Western Asia
+Ireland:Northern Europe
+New Zealand:Australia/New Zealand
+Central African Republic:Middle Africa
+Costa Rica:Central America
+Oman:Western Asia
+Mauritania:Western Africa
+Kuwait:Western Asia
+Panama:Central America
+Croatia:Southern Europe
+Georgia:Western Asia
+Eritrea:Eastern Africa
+Mongolia:Eastern Asia
+Uruguay:South America
+Puerto Rico:Caribbean
+Bosnia and Herzegovina:Southern Europe
+Republic of Moldova:Eastern Europe
+Qatar:Western Asia
+Namibia:Southern Africa
+Armenia:Western Asia
+Lithuania:Northern Europe
+Jamaica:Caribbean
+Albania:Southern Europe
+Gambia:Western Africa
+Gabon:Middle Africa
+Botswana:Southern Africa
+Lesotho:Southern Africa
+Guinea-Bissau:Western Africa
+Slovenia:Southern Europe
+Latvia:Northern Europe
+Equatorial Guinea:Middle Africa
+North Macedonia:Southern Europe
+Kosovo:Southern Europe
+Bahrain:Western Asia
+Trinidad and Tobago:Caribbean
+Timor-Leste:South-Eastern Asia
+Estonia:Northern Europe
+Cyprus:Western Asia
+Mauritius:Eastern Africa
+Eswatini:Southern Africa
+Djibouti:Eastern Africa
+Fiji:Melanesia
+Réunion:Eastern Africa
+Comoros:Eastern Africa
+Guyana:South America
+Solomon Islands:Melanesia
+Bhutan:Southern Asia
+Macao:Eastern Asia
+Luxembourg:Western Europe
+Montenegro:Southern Europe
+Suriname:South America
+Western Sahara:Northern Africa
+Malta:Southern Europe
+Maldives:Southern Asia
+Cabo Verde:Western Africa
+Brunei Darussalam:South-Eastern Asia
+Belize:Central America
+Bahamas:Caribbean
+Iceland:Northern Europe
+Guadeloupe:Caribbean
+Martinique:Caribbean
+Vanuatu:Melanesia
+Mayotte:Eastern Africa
+French Guiana:South America
+New Caledonia:Melanesia
+Barbados:Caribbean
+French Polynesia:Polynesia
+Sao Tome and Principe:Middle Africa
+Samoa:Polynesia
+Curaçao:Caribbean
+Saint Lucia:Caribbean
+Guam:Micronesia
+Kiribati:Micronesia
+Seychelles:Eastern Africa
+Grenada:Caribbean
+Micronesia:Micronesia
+Aruba:Caribbean
+Tonga:Polynesia
+Jersey:Northern Europe
+Saint Vincent and the Grenadines:Caribbean
+Antigua and Barbuda:Caribbean
+U.S. Virgin Islands:Caribbean
+Isle of Man:Northern Europe
+Andorra:Southern Europe
+Cayman Islands:Caribbean
+Dominica:Caribbean
+Bermuda:North America
+Guernsey:Northern Europe
+Greenland:North America
+Faroe Islands:Northern Europe
+American Samoa:Polynesia
+Saint Kitts and Nevis:Caribbean
+Turks and Caicos Islands:Caribbean
+Northern Mariana Islands:Micronesia
+Sint Maarten (Dutch part):Caribbean
+Liechtenstein:Western Europe
+British Virgin Islands:Caribbean
+Monaco:Western Europe
+Marshall Islands:Micronesia
+Gibraltar:Southern Europe
+San Marino:Southern Europe
+Caribbean Netherlands:Caribbean
+Saint Martin:Caribbean
+Palau:Micronesia
+Anguilla:Caribbean
+Cook Islands:Polynesia
+Nauru:Micronesia
+Wallis and Futuna Islands:Polynesia
+Saint Barthélemy:Caribbean
+Tuvalu:Polynesia
+Saint Pierre and Miquelon:North America
+Saint Helena:Western Africa
+Montserrat:Caribbean
+Falkland Islands:South America
+Tokelau:Polynesia
+Niue:Polynesia
+Holy See:Southern Europe
